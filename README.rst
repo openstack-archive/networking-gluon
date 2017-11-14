@@ -9,9 +9,9 @@ Please fill here a long description which must be at least 3 lines wrapped on
 Note that this is a hard requirement.
 
 * Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/networking-gluon
+* Documentation: https://docs.openstack.org/developer/networking-gluon
 * Source: http://git.openstack.org/cgit/openstack/networking-gluon
-* Bugs: http://bugs.launchpad.net/networking-gluon
+* Bugs: https://bugs.launchpad.net/networking-gluon
 
 Features
 --------
